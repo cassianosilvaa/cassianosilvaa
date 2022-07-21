@@ -28,7 +28,7 @@ com a Growdev!
   <a href="mailto:Silva11.cassiano@gmail.com" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-EMAIL" /></a>
 
-  <a href="https://www.linkedin.com/in/cassiano-silva-51469b240/" alt="Linkedin">
+  <a href="https://www.linkedin.com/in/cassiano-silva-51469b240/" target=_blank alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a>
 
   <a href="https://api.whatsapp.com/send?phone=5551984551871&text=Ol%C3%A1%2C%20vi%20seu%20perfil%20no%20Github!" alt="WhatsApp">
