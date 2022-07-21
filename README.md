@@ -3,8 +3,9 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  <p>- Me chamo Cassiano Silva, atualmente estou cursando desenvolvimento Full-Stack com a Growdev!</p>
-  <p>- 
+<p><strong>Nome:</strong> Olá, me chamo Cassiano Silva!</p>
+<p><strong>Formação:</strong> Ensino médio completo, Introdução à computação - Alfamídia (200 horas) e atualmente estou cursando desenvolvimento Full-Stack
+com a Growdev!
   
   
 </p>
@@ -23,7 +24,7 @@
 
 <p align="left">
   <a href="#" alt="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=https://mail.google.com/mail/u/0/#inbox"/></a>
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:silva11.cassiano@gmail.com"/></a>
 
   <a href="#" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a>
