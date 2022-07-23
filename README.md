@@ -34,6 +34,10 @@ com a <a href="https://www.growdev.com.br/">Growdev!</a></p>
   <img height="25em" src=https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white>
 </p>
 
+<p align="left">
+  <strong>Hobbies</strong>: No meu tempo livre gosto de assistir vídeos, e astronomia é um assunto que me entretém bastante! Gosto muito de games também. 🌌🎮
+</p>
+
 
 <p align="left">
   📫 <strong>Contatos</strong>: ⤵️
