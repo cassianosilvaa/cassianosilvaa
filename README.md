@@ -6,7 +6,7 @@
   <p align="left"> 
   <h3>Olá, me chamo <strong>Cassiano Silva!</strong></h3>
   <p><strong>Formação:</strong> Ensino médio completo, Introdução à computação - Alfamídia (200 horas) e atualmente estou cursando desenvolvimento Full-Stack
-com a Growdev!</p>
+com a <a href="https://www.growdev.com.br/">Growdev!</a></p>
   <p><strong>Experiências profissionais:</strong> Jovem aprendiz - Elétrica residencial, Assistente de produção.</p>
 
 <p align="left">
