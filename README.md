@@ -50,8 +50,10 @@ com a <a href="https://www.growdev.com.br/">Growdev!</a></p>
 <p align="left">
   <strong>Hobbies</strong>: No meu tempo livre gosto de assistir vídeos, e astronomia é um assunto que me entretém bastante! Gosto muito de games também. 🌌🎮
 </p>
+<p>
+  https://github-readme-stats.vercel.app/api/top-langs/?username={cassianosilvaa}&theme=blue-green
+</p>
 
-https://github-readme-stats.vercel.app/api/top-langs/?username={cassianosilvaa}&theme=blue-green
 
 
 <p align="left">
