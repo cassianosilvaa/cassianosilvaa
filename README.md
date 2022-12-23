@@ -49,6 +49,11 @@ com a <a href="https://www.growdev.com.br/">Growdev!</a></p>
   <img height="25em" src=	https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white>
 </p>
 
+<p>
+  <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs?username=cassianosilvaa&show_icons=true&theme=slateorange&title_color=000000&text_color=0c0c0c&icon_color=0c0c0c&layout=compact&hide_border=true&bg_color=f0f0f0" alt="Cassiano Silva" />
+ 
+</p>
+
 ---
 
 <p align="left">
@@ -56,10 +61,7 @@ com a <a href="https://www.growdev.com.br/">Growdev!</a></p>
 </p>
 
 
-<p>
-  <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs?username=cassianosilvaa&show_icons=true&theme=slateorange&title_color=000000&text_color=0c0c0c&icon_color=0c0c0c&layout=compact&hide_border=true&bg_color=f0f0f0" alt="Cassiano Silva" />
- 
-</p>
+
 
 
 
