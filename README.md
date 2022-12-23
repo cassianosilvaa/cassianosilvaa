@@ -47,7 +47,7 @@ com a <a href="https://www.growdev.com.br/">Growdev!</a></p>
   <img height="25em" src=https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white>
   <img height="25em" src=https://img.shields.io/badge/Brave-FF1B2D?style=for-the-badge&logo=Brave&logoColor=white>
   <img height="25em" src=https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white>
-  <img height="25em" src=https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white>
+  
   <img height="25em" src=	https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white>
 </p>
 
