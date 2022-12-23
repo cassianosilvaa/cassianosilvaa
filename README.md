@@ -33,6 +33,9 @@ com a <a href="https://www.growdev.com.br/">Growdev!</a></p>
  <img height="25em" src=https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white>
  <img height="25em" src=https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white>
   <img height="25em" src=https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white>
+  <img height="25em" src=https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white>
+  <img height="25em" src=https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white>
+  <img height="25em" src=https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E>
 </p>
 
  <p aligm="left">
