@@ -21,7 +21,10 @@ com a <a href="https://www.growdev.com.br/">Growdev!</a></p>
 <p align="left">
   <strong>Libs</strong>: 
   <img height="25em" src=https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB>
- 
+ <img height="25em" src=https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white>
+ <img height="25em" src=https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white>
+ <img height="25em" src=https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white>
+ <img height="25em" src=https://img.shields.io/badge/Redux-Toolkit-593D88?style=for-the-badge&logo=redux&logoColor=white>
 
 </p>
 
