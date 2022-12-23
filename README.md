@@ -9,6 +9,8 @@
 com a <a href="https://www.growdev.com.br/">Growdev!</a></p>
   <p><strong>Experiências profissionais:</strong> Jovem aprendiz - Elétrica residencial, Assistente de produção.</p>
 
+---
+
 <p align="left">
   <strong>Linguagens</strong>: 
   <img height="25em" src=https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white>
@@ -46,6 +48,8 @@ com a <a href="https://www.growdev.com.br/">Growdev!</a></p>
   <img height="25em" src=https://img.shields.io/badge/Brave-FF1B2D?style=for-the-badge&logo=Brave&logoColor=white>
   <img height="25em" src=	https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white>
 </p>
+
+---
 
 <p align="left">
   <strong>Hobbies</strong>: No meu tempo livre gosto de assistir vídeos, e astronomia é um assunto que me entretém bastante! Gosto muito de games também. 🌌🎮
