@@ -36,12 +36,13 @@ com a <a href="https://www.growdev.com.br/">Growdev!</a></p>
   <img height="25em" src=https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white>
   <img height="25em" src=https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white>
   <img height="25em" src=https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E>
+  <img height="25em" src=https://img.shields.io/badge/Redux-Toolkit-593D88?style=for-the-badge&logo=redux&logoColor=white>
 </p>
 
  <p aligm="left">
  <strong>Estudando atualmente:</strong> 
-  <img height="25em" src=https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB>
-  <img height="25em" src=https://img.shields.io/badge/Redux-Toolkit-593D88?style=for-the-badge&logo=redux&logoColor=white>
+  <img height="25em" src=https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white>
+  
 </p>
 
 <p align="left">
