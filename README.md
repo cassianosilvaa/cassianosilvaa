@@ -29,6 +29,7 @@ com a <a href="https://www.growdev.com.br/">Growdev!</a></p>
 
 <p align="left">
   <strong>Skills:</strong>
+  <img height="25em" src=https://img.shields.io/badge/Redux-Toolkit-593D88?style=for-the-badge&logo=redux&logoColor=white>
   <img height="25em" src=https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white>
  <img height="25em" src=https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white>
  <img height="25em" src=https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white>
@@ -36,7 +37,6 @@ com a <a href="https://www.growdev.com.br/">Growdev!</a></p>
   <img height="25em" src=https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white>
   <img height="25em" src=https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white>
   <img height="25em" src=https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E>
-  <img height="25em" src=https://img.shields.io/badge/Redux-Toolkit-593D88?style=for-the-badge&logo=redux&logoColor=white>
 </p>
 
  <p aligm="left">
