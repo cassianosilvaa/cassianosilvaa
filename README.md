@@ -7,7 +7,7 @@
   <h3>Olá, me chamo <strong>Cassiano Silva!</strong></h3>
   <p><strong>Formação:</strong> Ensino médio completo, Introdução à computação - Alfamídia (200 horas) e atualmente estou cursando desenvolvimento Full Stack
 com a <a href="https://www.growdev.com.br/">Growdev!</a></p>
-  <p><strong>Em busca da minha primeira oportunidade!</p>
+  <p><strong>Analista de Negócios na Arezzo&Co!</p>
 
 ---
 
